@@ -1,3 +1,4 @@
 JavaScript Slideshow
 
-practice# slideshow
+practice slideshow
+error
